@@ -1,0 +1,10 @@
+Image credits
+
+1. The Artist's Garden in Giverny by Claude Monet, from Wikimedia Commons / Yale University Art Gallery.
+   Wikimedia Commons lists this as a faithful photographic reproduction of a two-dimensional public-domain work of art, marked with the Creative Commons Public Domain Mark.
+
+2. The couple photo was cropped from the screenshot supplied in the prompt and saved as assets/story-photo.jpg.
+
+Technical notes
+
+This is a static website. There is no backend. RSVP submissions are stored in localStorage in the visitor's browser only.

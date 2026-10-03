@@ -1,0 +1,28 @@
+<svg width="768" height="768" viewBox="0 0 768 768" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pink line-art lotus flower">
+  <defs>
+    <style>
+      .lotus-line {
+        fill: none;
+        stroke: #ffa0a8;
+        stroke-width: 18;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+
+  <!-- center petal -->
+  <path class="lotus-line" d="M323 321 C329 280 350 246 370 226 C398 258 416 306 417 349 C418 393 401 427 383 456" />
+
+  <!-- left rear petal -->
+  <path class="lotus-line" d="M230 391 C209 361 197 326 200 295 C278 299 357 354 377 455" />
+
+  <!-- right rear petal -->
+  <path class="lotus-line" d="M439 329 C472 311 505 297 540 295 C537 361 480 442 383 456" />
+
+  <!-- left front petal -->
+  <path class="lotus-line" d="M383 456 C300 400 205 410 129 466 C190 522 278 524 335 491" />
+
+  <!-- right front petal -->
+  <path class="lotus-line" d="M514 419 C553 427 586 447 613 466 C553 521 465 526 383 456" />
+</svg>
